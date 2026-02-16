@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=240&section=header&text=Ankush%20Pradhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=65&descAlign=50" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Designing+Interfaces+That+Feel+Effortless;Creative+Direction+%2B+Frontend+Architecture;Minimal+Design.+Structured+Code.;UI+is+not+Decoration+%E2%80%94+It%E2%80%99s+Communication." />
-</p>
-
 ---
 
 # 👋 Hello — I’m Ankush
@@ -78,8 +74,8 @@ I design systems.
 ## 📊 GitHub Aesthetic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushprdhn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=4DA6FF" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushprdhn&theme=transparent&hide_border=true&ring=4DA6FF&fire=4DA6FF&currStreakLabel=ffffff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkushPradhan&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=4DA6FF" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushPradhan&theme=transparent&hide_border=true&ring=4DA6FF&fire=4DA6FF&currStreakLabel=ffffff" height="160" />
 </p>
 
 ---
@@ -87,7 +83,7 @@ I design systems.
 ## 📈 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushprdhn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushPradhan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
 </p>
 
 ---
@@ -95,7 +91,7 @@ I design systems.
 ## 🏆 Craft & Consistency
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankushprdhn&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkushPradhan&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -103,7 +99,7 @@ I design systems.
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankushprdhn/ankushprdhn/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AnkushPradhan/AnkushPradhan/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
