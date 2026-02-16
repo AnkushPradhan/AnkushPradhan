@@ -1,142 +1,134 @@
-<!-- PROFILE BANNER -->
+<!-- AESTHETIC DESIGNER BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ankush%20Pradhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=240&section=header&text=Ankush%20Pradhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=65&descAlign=50" />
 </p>
 
-<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Director+@+Rato+Guras;Designing+Experiences+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Designing+Interfaces+That+Feel+Effortless;Creative+Direction+%2B+Frontend+Architecture;Minimal+Design.+Structured+Code.;UI+is+not+Decoration+%E2%80%94+It%E2%80%99s+Communication." />
 </p>
 
 ---
 
-## 👋 Hi, I'm Ankush
+# 👋 Hello — I’m Ankush
 
-I’m a **Frontend Developer & UI/UX Designer** focused on crafting clean, scalable, and user-centric digital experiences.  
-With a strong eye for design and structure, I bridge aesthetics with functionality - turning ideas into polished, production-ready interfaces.
+I design and build digital experiences that are clean, structured, and intentional.
 
-Currently serving as **Creative Director at Rato Guras Technology Pvt. Ltd.**, where I supervise UI and frontend architecture across projects.
+As a **Frontend Developer & UI/UX Designer**, I focus on clarity, usability, and refined aesthetics.  
+Currently working as **Creative Director at Rato Guras Technology Pvt. Ltd.**, where I supervise UI systems and frontend execution across projects.
 
----
-
-## 💼 Experience
-
-### 🎨 Creative Director & Frontend Developer  
-**Rato Guras Technology Pvt. Ltd.**  
-*Feb 2025 – Present | Biratnagar, Nepal (On-site)*
-
-- Lead UI/UX direction across multiple production projects  
-- Supervise frontend architecture and implementation  
-- Translate business requirements into scalable interfaces  
-- Collaborate with backend teams to deliver cohesive products  
-
-**Tech Stack:**  
-Laravel Blade • Next.js • Tailwind CSS • React (Basics) • Figma • Illustrator • Canva  
+I don’t just design screens —  
+I design systems.
 
 ---
 
-## 🎨 Design & Development Philosophy
+## 🎨 Design Mindset
 
-- Minimal interfaces with maximum clarity  
-- Functionality guided by user behavior  
-- Clean component structure & reusable UI systems  
-- Design systems over random styling  
-- Performance-aware frontend development  
+> Minimal doesn’t mean empty.  
+> It means every element earns its place.
+
+• Interface clarity over visual noise  
+• Structured component systems  
+• UX driven by behavior, not assumption  
+• Scalable frontend architecture  
+• Pixel-level precision  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Creative Stack
 
-### 🎯 Frontend & Frameworks
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Blade-1B1B1B?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🎨 Design Tools
+### Design
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 💼 Current Role
 
-- Build modern responsive interfaces  
-- Design complete UI systems  
-- Supervise frontend teams  
-- Convert Figma designs to scalable production code  
-- Improve user flows and interaction logic  
+### Creative Director — Rato Guras Technology Pvt. Ltd.
+
+• Lead UI direction across multiple production systems  
+• Supervise frontend architecture & implementation  
+• Translate design prototypes into scalable components  
+• Ensure design consistency across platforms  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Create
+
+- Modern responsive web interfaces  
+- Design systems & reusable UI libraries  
+- Clean dashboards & admin panels  
+- Structured landing experiences  
+- High-clarity user flows  
+
+---
+
+## 📊 GitHub Aesthetic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushPradhan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushPradhan&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushprdhn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=4DA6FF" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushprdhn&theme=transparent&hide_border=true&ring=4DA6FF&fire=4DA6FF&currStreakLabel=ffffff" height="160" />
 </p>
 
 ---
 
-## 📈 Top Languages
+## 📈 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushprdhn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushprdhn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Craft & Consistency
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankushprdhn&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankushprdhn&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankushprdhn/ankushprdhn/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ankushprdhn/ankushprdhn/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ You will need to enable a GitHub Action to generate the snake animation.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.instagram.com/ankush_prdhn/">
-    <img src="https://img.shields.io/badge/Instagram-ankush_prdhn-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ankush_prdhn-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
 ---
 
-## 🧠 Currently Focused On
+## 🧠 Current Focus
 
-- Advanced UI systems  
-- Performance optimization in Next.js  
-- Design system architecture  
-- Elevating creative direction in digital products  
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankushprdhn&label=Profile%20Views&color=2c5364&style=flat" />
-</p>
+• Advanced UI systems  
+• Interaction refinement  
+• Frontend scalability  
+• Design consistency at scale  
 
 ---
 
 <p align="center">
-  <b>Design. Structure. Experience.</b><br>
-  Turning ideas into interfaces that feel effortless.
+  <sub>
+  Designed with intention. Built with structure.
+  </sub>
 </p>
