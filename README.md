@@ -77,8 +77,8 @@ Laravel Blade • Next.js • Tailwind CSS • React (Basics) • Figma • Illu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushprdhn&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushprdhn&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkushPradhan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushPradhan&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
