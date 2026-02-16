@@ -13,7 +13,7 @@
 ## 👋 Hi, I'm Ankush
 
 I’m a **Frontend Developer & UI/UX Designer** focused on crafting clean, scalable, and user-centric digital experiences.  
-With a strong eye for design and structure, I bridge aesthetics with functionality — turning ideas into polished, production-ready interfaces.
+With a strong eye for design and structure, I bridge aesthetics with functionality - turning ideas into polished, production-ready interfaces.
 
 Currently serving as **Creative Director at Rato Guras Technology Pvt. Ltd.**, where I supervise UI and frontend architecture across projects.
 
